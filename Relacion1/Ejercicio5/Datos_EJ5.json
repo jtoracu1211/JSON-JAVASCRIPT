@@ -1,0 +1,40 @@
+{
+    "nombre": "Residencia Sol",
+    "direccion": {
+        "calle": "Calle de la Luz",
+        "numero": 123,
+        "codigo_postal": "28080"
+    },
+    "pisos": [
+        {
+            "planta": 3,
+            "puerta": "b",
+            "habitaciones": [
+                "Salón",
+                "Cocina",
+                "Baño",
+                "Dormitorio"
+            ]
+        },
+        {
+            "planta": 2,
+            "puerta": "a",
+            "habitaciones": [
+                "Salón",
+                "Cocina",
+                "Baño",
+                "Habitación infantil"
+            ]
+        },
+        {
+            "planta": 1,
+            "puerta": "d",
+            "habitaciones": [
+                "Salón",
+                "Baño",
+                "Dormitorio principal",
+                "Oficina"
+            ]
+        }
+    ]
+}

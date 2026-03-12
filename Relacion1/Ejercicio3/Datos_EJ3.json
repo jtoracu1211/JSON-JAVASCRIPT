@@ -1,0 +1,28 @@
+{
+    "personal": {
+        "documento": {
+            "tipo": "DNI",
+            "numero": "99223366M"
+        },
+        "nombre": "Juan Padro Martín",
+        "titulacion": {
+            "tipo": "Superior",
+            "nombre": "Ingeniería Informática"
+        },
+        "curso_academico": "1997/1998",
+        "domicilios": [
+            {
+                "tipo": "Familiar",
+                "nombre": "C/ Pincipal no1"
+            },
+            {
+                "tipo": "Habitual",
+                "nombre": "C/ Secundaria no2"
+            }
+        ]
+    },
+    "pagos": [
+        "Pago fraccionado 1",
+        "Pago fraccionado 2"
+    ]
+}
