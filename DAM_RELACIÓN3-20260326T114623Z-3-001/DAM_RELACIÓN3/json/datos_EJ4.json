@@ -1,0 +1,41 @@
+[
+    {
+        "modelo":"Dell XPS 15",
+        "precio":{
+            "cantidad":1800,
+            "moneda":"$"
+        },
+        "procesador":"Intel Core i7-12700H",
+        "componentes":[
+            "16GB RAM",
+            "512GB SSD",
+            "NVIDIA RTX 3050"
+        ]
+    },
+    {
+        "modelo":"MacBook Pro 14\"",
+        "precio":{
+            "cantidad":200,
+            "moneda":"$"
+        },
+        "procesador":"Apple M2 Pro",
+        "componentes":[
+            "16GB RAM",
+            "1TB SSD",
+            "Retina Display"
+        ]
+    },
+    {
+        "modelo":"Dell XPS 15",
+        "precio":{
+            "cantidad":1800,
+            "moneda":"$"
+        },
+        "procesador":"Intel Core i7-12700H",
+        "componentes":[
+            "16GB RAM",
+            "512GB SSD",
+            "NVIDIA RTX 3050"
+        ]
+    }
+]

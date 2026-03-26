@@ -1,0 +1,44 @@
+ [
+    {
+      "nombre": "The Witcher 3",
+      "estudio": "CD Projekt",
+      "anio": 1996,
+      "plataformas": ["PC", "PS4", "Xbox One"],
+      "valoraciones": [
+        {
+          "gamer": "potito",
+          "jugabilidad": 8,
+          "disenio": 7,
+          "historia": 10
+        },
+        {
+          "gamer": "juanjugon",
+          "jugabilidad": 7,
+          "disenio": 6,
+          "historia": 8
+        }
+      ]
+    },
+    {
+      "nombre": "Zelda Breath of the Wild",
+      "estudio": "Nintendo",
+      "anio": 2017,
+      "plataformas": ["Switch", "Wii U", "PC"],
+      "valoraciones": [
+       
+         {
+          "gamer": "arwen",
+          "jugabilidad": 10,
+          "disenio": 6,
+          "historia": 10
+        },
+         {
+          "gamer": "winwin",
+          "jugabilidad": 8,
+          "disenio": 9,
+          "historia": 9
+        }           
+      ]
+    }
+  ]
+

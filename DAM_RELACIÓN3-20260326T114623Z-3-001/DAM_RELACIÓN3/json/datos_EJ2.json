@@ -1,0 +1,26 @@
+[
+  {
+    "para": "Pedro",
+    "de": "Laura",
+    "titulo": "Recordatorio",
+    "contenido": "A las 7:00pm en la puerta del teatro"
+  },
+  {
+    "para": "Laura",
+    "de": "Pedro",
+    "titulo": "Redibido",
+    "contenido": "Allí nos vemos"
+  },
+  {
+    "para": "Juan",
+    "de": "Marta",
+    "titulo": "Cita anulada",
+    "contenido": "No podemos vernos, lo nuestro es imposible"
+  },
+  {
+    "para": "Jennifer",
+    "de": "Roberta",
+    "titulo": "Adjunto",
+    "contenido": "No encuentro el archivo"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "personal": {
+    "documento": {
+      "tipo": "dni",
+      "numero": "9922336M"
+    },
+    "nombre": "juan pardo martin",
+    "titulacion": {
+      "tipo": "superio",
+      "nombre": "Ingenieria informatica"
+    },
+    "cursoacademico": "1997/1998",
+    "domicilios": [
+      {
+        "tipo": "familiar",
+        "nombre": "C/ Principal n1"
+      },
+      {
+        "tipo": "habitual",
+        "nombre": "C/ Secundaria n2"
+      }
+    ]
+  },
+  "pagos": ["pago fraccionado 1", "pago fraccionado 2"]
+}
