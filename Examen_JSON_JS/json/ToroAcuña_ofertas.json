@@ -1,0 +1,39 @@
+{
+    "nombre":"SL Excursiones",
+    "informacion":{
+        "telefono":"987 654 321",
+        "email":"SL_excursion@gmail.com"
+    },
+    "excursiones":[
+        {
+            "destino":"Moscú",
+            "pais":"Rusia",
+            "precio":"1200 euros",
+            "actividades":[
+                "Visita al Kremlin",
+                "Paseo por la Plaza Roja",
+                "Tour por el metro de Moscú"
+            ]
+        },
+        {
+            "destino":"París",
+            "pais":"Francia",
+            "precio":"1500 euros",
+            "actividades":[
+                "Visita a la Torre Eiffel",
+                "Paseo por el río Sena",
+                "Tour por el Museo del Louvre"
+            ]
+        },
+        {
+            "destino":"Berlín",
+            "pais":"Alemania",
+            "precio":"1400 euros",
+            "actividades":[
+                "Visita al Muro de Berlín",
+                "Paseo por el Parque de los 100000",
+                "Tour por el Palacio de la Kulturbätte"
+            ]
+        }
+    ]
+}

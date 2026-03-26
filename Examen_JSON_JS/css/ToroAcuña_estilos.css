@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg, #7a1f1f, #b33939);
+    color: white;
+}
+
+/* ===== SECCIÓN DATOS (ARRIBA) ===== */
+#datos{
+    background-color: #8e2a2a;
+    border: 2px solid #f5b7b1;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+#datos h1{
+    background-color: #c0392b;
+    border: 2px solid #f8caca;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;    
+}
+
+#datos div{
+    background-color: #63302b;
+    border: 2px solid #f5b7b1;
+    border-radius: 10px;
+    padding: 15px;
+    text-align:center;
+    font-size:x-large;
+}
+
+#datos h2{
+    margin-top: 0;
+    border-bottom: 2px solid #f8caca;
+    padding-bottom: 5px;
+}
+
+#datos p{
+    margin: 5px 0;
+}
+
+/* ===== SECCIÓN EXCURSIONES ===== */
+#excursiones{
+    display: flex; /* cards en fila */
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* ===== CARDS ===== */
+card{
+    background-color: #922b21;
+    border: 2px solid #f5b7b1;
+    border-radius: 15px;
+    padding: 15px;
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+}
+
+/* TITULOS DE LAS CARDS */
+
+card{
+    width:40%;
+    padding:50px;
+}
+card h3{
+    margin: 0;
+    padding: 10px;
+    background-color: #c0392b;
+    border: 1px solid #f8caca;
+    border-radius: 8px;
+    text-align: center;
+}
+
+/* CONTENEDOR DE ACTIVIDADES */
+card div{
+    display: flex; /* flex en los span */
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+
+    background-color: #7b241c;
+    border: 1px solid #f5b7b1;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* ACTIVIDADES */
+card span{
+    background-color: #ec7063;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-size: 0.85em;
+}
+
+/* HOVER SUAVE */
+card:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+    background-color: #a93226;
+}
